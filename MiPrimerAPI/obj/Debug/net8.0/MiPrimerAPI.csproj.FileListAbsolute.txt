@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrador\source\repos\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.MvcApplicationPartsAssemblyInfo.cache
